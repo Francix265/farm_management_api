@@ -8,3 +8,4 @@ SQLAlchemy
 PyMySQL
 reportlab
 requests
+apscheduler==3.10.1
